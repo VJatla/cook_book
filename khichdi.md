@@ -1,9 +1,9 @@
-# Kichidi
-Kichidi = rice + ghee + lentil(dal)
+# Khichdi
+Khichdi = rice + ghee + lentil(dal)
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
-- [Kichidi](#kichidi)
+- [Khichdi](#khichdi)
     - [Convention](#convention)
     - [Slow cooker](#slow-cooker)
 

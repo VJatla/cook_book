@@ -1,3 +1,3 @@
 # Cook book
-+ [Kichidi](./kichidi.md)
++ [Khichdi](./khichdi.md)
 
