@@ -11,7 +11,8 @@ Kichidi = rice + ghee + lentil(dal)
 |--------|-------------|
 | T      | Table spoon |
 | t      | Tea spoon   |
-|        |             |
+| c      | Cup         |
+|--------|-------------|
 ## Slow cooker
 1. Very simple:
    + Servings: 2
@@ -19,5 +20,5 @@ Kichidi = rice + ghee + lentil(dal)
    + Cooker: Slow cooker at slowest setting
    + Propotions:
    ```
-   1/2*(moong dal) + 1/2*(rice) + 2T*(ghee) + 4.5*(water) 
+   1/2c*(moong dal) + 1/2c*(rice) + 2T*(ghee) + 4.5c*(water) 
    ```
