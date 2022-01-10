@@ -4,6 +4,8 @@ Kichidi = rice + ghee + lentil(dal)
 **Table of Contents**
 
 - [Kichidi](#kichidi)
+    - [Convention](#convention)
+    - [Slow cooker](#slow-cooker)
 
 <!-- markdown-toc end -->
 ## Convention
@@ -12,7 +14,6 @@ Kichidi = rice + ghee + lentil(dal)
 | T      | Table spoon |
 | t      | Tea spoon   |
 | c      | Cup         |
-|--------|-------------|
 ## Slow cooker
 1. Very simple:
    + Servings: 2
