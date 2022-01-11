@@ -15,8 +15,7 @@ Things you can do in air fyer that taste good.
 | Broccoli  | 10 minutes         | 400               |
 1. Chop off the ends of Asparagus
 2. Olive oil + Asparagus + salt + pepper
-3. Air fry for **10 minutes**
-4. After `t` minutes at `f` franheat (U.S.), we can further season
+3. After `t` minutes at `f` franheat (U.S.), we can further season
    + Parmesan
    + Lemon zest + lemon
    + Parsley
