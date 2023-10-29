@@ -1,2 +1,10 @@
 #+Title: Cook book
 I will be storing recepie collections for quick reference in this repository.
+
+* Links
+** Veggies
+** Fruits
+** Fish
+*** Tilapia
+**** [[./fish/tilapia-fillet-fry.org][Shallow sillet fry]]
+** Chicken
