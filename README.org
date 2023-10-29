@@ -1,5 +1,0 @@
-#+Title: Cooking book repository
-The following repository is written in org-mode. For publishing I am using
-org-mode publishing system and github pages.
-
-To see the content please visit [[https://vjatla.github.io/cook_book/][Cook book github pages]].
