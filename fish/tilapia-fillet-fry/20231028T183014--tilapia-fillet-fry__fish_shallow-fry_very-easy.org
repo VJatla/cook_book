@@ -28,12 +28,12 @@
 6. Enjoy!
 
 * Pictures
-#+CAPTION: Marinated fish pieces
-#+NAME:   fig:marinated-fish-pieces
-[[./marination.jpg]]
-
 #+CAPTION: Frozen fish packet
 #+NAME: fig:frozen-fish-packet
 [[./tilapia_fronzen_fillets.jpg]]
+
+#+CAPTION: Marinated fish pieces
+#+NAME:   fig:marinated-fish-pieces
+[[./marination.jpg]]
 
 
