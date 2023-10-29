@@ -6,5 +6,5 @@ I will be storing recepie collections for quick reference in this repository.
 ** Fruits
 ** Fish
 *** Tilapia
-**** [[./fish/tilapia-fillet-fry/20231028T183014--tilapia-fillet-fry__fish_shallow-fry_very-easy.org][Shallow sillet fry]]
+**** [[./fish/tilapia-fillet-fry/20231028T183014--tilapia-fillet-fry__fish_shallow-fry_very-easy.org][Shallow fillet fry]]
 ** Chicken
