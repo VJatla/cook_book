@@ -30,12 +30,12 @@
 * Pictures
 #+CAPTION: Frozen fish packet
 #+NAME: fig:frozen-fish-packet
-#+attr_org: :width 700
+#+attr_org: :width 50
 [[./tilapia_fronzen_fillets.jpg]]
 
 #+CAPTION: Marinated fish pieces
 #+NAME:   fig:marinated-fish-pieces
-#+attr_org: :width 700
+#+attr_org: :width 50
 [[./marination.jpg]]
 
 
