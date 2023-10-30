@@ -1,6 +1,9 @@
 ;; Load the publishing system
 (require 'ox-publish)
 
+;; Image actual width
+(setq org-image-actual-width nil)
+
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts

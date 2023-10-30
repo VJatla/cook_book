@@ -31,13 +31,11 @@
 ** Frozen fish 
 #+CAPTION: Frozen fish packet
 #+NAME: fig:frozen-fish-packet
-#+attr_html: :width 100px
 [[./tilapia_fronzen_fillets.jpg]]
 
 ** Marinated fish pieces
 #+CAPTION: Marinated fish pieces
 #+NAME:   fig:marinated-fish-pieces
-#+attr_html: :width 100px
 [[./marination.jpg]]
 
 
