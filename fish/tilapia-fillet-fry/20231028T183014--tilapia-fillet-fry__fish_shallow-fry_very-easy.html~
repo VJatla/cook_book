@@ -6,32 +6,32 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Tilapia fillet fry</title>
-<meta name="generator" content="Org mode" />
+<meta name="generator" content="Org Mode" />
 <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css" />
 </head>
 <body>
-<div id="content">
+<div id="content" class="content">
 <h1 class="title">Tilapia fillet fry</h1>
-<div id="table-of-contents">
+<div id="table-of-contents" role="doc-toc">
 <h2>Table of Contents</h2>
-<div id="text-table-of-contents">
+<div id="text-table-of-contents" role="doc-toc">
 <ul>
-<li><a href="#orgb2c3841">Overview</a></li>
-<li><a href="#org177a030">Ingredients</a></li>
-<li><a href="#org4e5041c">Preparation</a></li>
-<li><a href="#org9807829">Pictures</a>
+<li><a href="#orgace8d00">Overview</a></li>
+<li><a href="#orgdfb998e">Ingredients</a></li>
+<li><a href="#orgaefe60a">Preparation</a></li>
+<li><a href="#orgef2aa64">Pictures</a>
 <ul>
-<li><a href="#org3e9acc9">Frozen fish</a></li>
-<li><a href="#org9c8b0a1">Marinated fish pieces</a></li>
+<li><a href="#org41610b6">Frozen fish</a></li>
+<li><a href="#org9b19f2b">Marinated fish pieces</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
 
-<div id="outline-container-orgb2c3841" class="outline-2">
-<h2 id="orgb2c3841">Overview</h2>
-<div class="outline-text-2" id="text-orgb2c3841">
+<div id="outline-container-orgace8d00" class="outline-2">
+<h2 id="orgace8d00">Overview</h2>
+<div class="outline-text-2" id="text-orgace8d00">
 <ul class="org-ul">
 <li><b>Difficulty:</b> Very easy</li>
 <li><b>Time</b>: 45 to 50 minutes</li>
@@ -41,9 +41,9 @@
 </div>
 </div>
 
-<div id="outline-container-org177a030" class="outline-2">
-<h2 id="org177a030">Ingredients</h2>
-<div class="outline-text-2" id="text-org177a030">
+<div id="outline-container-orgdfb998e" class="outline-2">
+<h2 id="orgdfb998e">Ingredients</h2>
+<div class="outline-text-2" id="text-orgdfb998e">
 <ul class="org-ul">
 <li>Tilapia fish fillets (frozen works too).</li>
 <li>Lemon juice</li>
@@ -55,9 +55,9 @@
 </div>
 </div>
 
-<div id="outline-container-org4e5041c" class="outline-2">
-<h2 id="org4e5041c">Preparation</h2>
-<div class="outline-text-2" id="text-org4e5041c">
+<div id="outline-container-orgaefe60a" class="outline-2">
+<h2 id="orgaefe60a">Preparation</h2>
+<div class="outline-text-2" id="text-orgaefe60a">
 <ol class="org-ol">
 <li>Add lemon juice to tilapia fillets. Mix them well.</li>
 <li>All all the spices and evently coat them.</li>
@@ -71,15 +71,15 @@ have small charred brown spots on each side.</li>
 </div>
 </div>
 
-<div id="outline-container-org9807829" class="outline-2">
-<h2 id="org9807829">Pictures</h2>
-<div class="outline-text-2" id="text-org9807829">
+<div id="outline-container-orgef2aa64" class="outline-2">
+<h2 id="orgef2aa64">Pictures</h2>
+<div class="outline-text-2" id="text-orgef2aa64">
 </div>
-<div id="outline-container-org3e9acc9" class="outline-3">
-<h3 id="org3e9acc9">Frozen fish</h3>
-<div class="outline-text-3" id="text-org3e9acc9">
+<div id="outline-container-org41610b6" class="outline-3">
+<h3 id="org41610b6">Frozen fish</h3>
+<div class="outline-text-3" id="text-org41610b6">
 
-<div id="org2f05df2" class="figure">
+<div id="orgc5b8aca" class="figure">
 <p><img src="./tilapia_fronzen_fillets.jpg" alt="tilapia_fronzen_fillets.jpg" />
 </p>
 <p><span class="figure-number">Figure 1: </span>Frozen fish packet</p>
@@ -87,11 +87,11 @@ have small charred brown spots on each side.</li>
 </div>
 </div>
 
-<div id="outline-container-org9c8b0a1" class="outline-3">
-<h3 id="org9c8b0a1">Marinated fish pieces</h3>
-<div class="outline-text-3" id="text-org9c8b0a1">
+<div id="outline-container-org9b19f2b" class="outline-3">
+<h3 id="org9b19f2b">Marinated fish pieces</h3>
+<div class="outline-text-3" id="text-org9b19f2b">
 
-<div id="org2b6df8c" class="figure">
+<div id="orgdc5de0b" class="figure">
 <p><img src="./marination.jpg" alt="marination.jpg" />
 </p>
 <p><span class="figure-number">Figure 2: </span>Marinated fish pieces</p>
@@ -102,7 +102,7 @@ have small charred brown spots on each side.</li>
 </div>
 <div id="postamble" class="status">
 <p class="date">Date: 2023-10-28 Sat 18:30</p>
-<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 27.1 (<a href="https://orgmode.org">Org</a> mode 9.3)</p>
+<p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 29.3 (<a href="https://orgmode.org">Org</a> mode 9.6.15)</p>
 </div>
 </body>
 </html>
