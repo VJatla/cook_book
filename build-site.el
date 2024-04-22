@@ -1,40 +1,41 @@
-;; Load the publishing system
 (require 'ox-publish)
 
-;; Image actual width
 (setq org-image-actual-width nil)
+(setq org-html-validation-link nil)
+(setq org-html-head-include-scripts nil)
+(setq org-html-head-include-default-style nil)
+(setq org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 
-;; Customize the HTML output
-(setq org-html-validation-link nil            ;; Don't show validation link
-      org-html-head-include-scripts nil       ;; Use our own scripts
-      org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
+(defun my/org-html-publish-to-html (plist filename pub-dir)
+  "Publish an org file to HTML.
+PLIST is the property list for the project.
+FILENAME is the filename of the Org file to be published.
+PUB-DIR is the publishing directory."
+  (org-publish-org-to 'html filename
+                      ".html" plist pub-dir))
 
-;; Define the publishing project
 (setq org-publish-project-alist
       (list
        (list "org-site:main"
              :recursive t
              :base-directory "./content"
-	     :base-extension "any"
-             :publishing-function 'org-html-export-to-html
+             :base-extension "org"
+             :publishing-function 'my/org-html-publish-to-html
              :publishing-directory "./public"
-             :with-author nil           ;; Don't include author name
-             :with-creator t            ;; Include Emacs and Org versions in footer
-             :with-toc t                ;; Include a table of contents
-             :section-numbers nil       ;; Don't include section numbers
+             :with-author nil
+             :with-creator t
+             :with-toc t
+             :section-numbers nil
              :time-stamp-file nil)
        (list "org-site:images"
-	     :recursive t
-	     :base-directory "./content"
-	     :base-extension "png\\|jpg\\|jpeg"
-	     :publishing-directory "./public"
-	     :publishing-function 'org-publish-attachment
-	     )
+             :recursive t
+             :base-directory "./content"
+             :base-extension "png\\|jpg\\|jpeg"
+             :publishing-directory "./public"
+             :publishing-function 'org-publish-attachment
+             )
+       ))
 
-       ))    ;; Don't include time stamp in file
-
-;; Generate the site output
 (org-publish-all t)
 
 (message "Build complete!")
