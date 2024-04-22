@@ -1,6 +1,9 @@
 #+Title: Cook book
 I will be storing recepie collections for quick reference in this repository.
 
+
+* Rasam
+** [[file:rasam/simple_home_made_rasam_powder.org][simple rasam with home made rasam powder]]
 * Links
 ** Veggies
 ** Fruits
