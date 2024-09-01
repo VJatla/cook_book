@@ -3,12 +3,13 @@ I will be storing recepie collections for quick reference in this repository.
 
 
 * Rasam
-- [[file:rasam/simple_home_made_rasam_powder.org][simple rasam with home made rasam powder]]
+
+Rasam is tamrind soup. We mix with white rice and eat. It goes
+very well with spicy sides.
+
 - [[file:rasam/pepper_rasam.org][Pepper rasam]]
-* Links
-** Veggies
-** Fruits
-** Fish
-*** Tilapia
-**** [[./fish/tilapia-fillet-fry/20231028T183014--tilapia-fillet-fry__fish_shallow-fry_very-easy.org][Shallow fillet fry]]
-** Chicken
+
+* Fish
+- [[./fish/tilapia-fillet-fry/20231028T183014--tilapia-fillet-fry__fish_shallow-fry_very-easy.org][Frozen tilapia fillet fry]]
+
+* Chicken
