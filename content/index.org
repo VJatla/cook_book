@@ -3,7 +3,8 @@ I will be storing recepie collections for quick reference in this repository.
 
 
 * Rasam
-** [[file:rasam/simple_home_made_rasam_powder.org][simple rasam with home made rasam powder]]
+- [[file:rasam/simple_home_made_rasam_powder.org][simple rasam with home made rasam powder]]
+- [[file:rasam/pepper_rasam.org][Pepper rasam]]
 * Links
 ** Veggies
 ** Fruits
