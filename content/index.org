@@ -1,7 +1,10 @@
 #+Title: Cook book
 I will be storing recepie collections for quick reference in this repository.
 
+* Sweets
 
+- [[file:sweets/chakkara_pongali.org][Chakkara pongali]]
+  
 * Rasam
 
 Rasam is tamrind soup. We mix with white rice and eat. It goes
